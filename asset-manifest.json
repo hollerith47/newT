@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cecfrance/static/css/main.674af93f.css",
+    "main.js": "/cecfrance/static/js/main.3a7e0ccd.js",
+    "index.html": "/cecfrance/index.html",
+    "main.674af93f.css.map": "/cecfrance/static/css/main.674af93f.css.map",
+    "main.3a7e0ccd.js.map": "/cecfrance/static/js/main.3a7e0ccd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.674af93f.css",
+    "static/js/main.3a7e0ccd.js"
+  ]
+}
